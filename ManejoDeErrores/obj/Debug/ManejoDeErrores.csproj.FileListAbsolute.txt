@@ -1,0 +1,6 @@
+/Users/marcohuerta/Projects/ManejoDeErrores/ManejoDeErrores/bin/Debug/ManejoDeErrores.exe
+/Users/marcohuerta/Projects/ManejoDeErrores/ManejoDeErrores/bin/Debug/ManejoDeErrores.pdb
+/Users/marcohuerta/Projects/ManejoDeErrores/ManejoDeErrores/obj/Debug/ManejoDeErrores.csproj.AssemblyReference.cache
+/Users/marcohuerta/Projects/ManejoDeErrores/ManejoDeErrores/obj/Debug/ManejoDeErrores.csproj.CoreCompileInputs.cache
+/Users/marcohuerta/Projects/ManejoDeErrores/ManejoDeErrores/obj/Debug/ManejoDeErrores.exe
+/Users/marcohuerta/Projects/ManejoDeErrores/ManejoDeErrores/obj/Debug/ManejoDeErrores.pdb
