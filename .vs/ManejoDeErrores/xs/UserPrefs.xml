@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{214C5850-F5C3-4D70-AD48-CDC5F42EF6B8}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="ManejoDeErrores/Program.cs">
     <Files>
-      <File FileName="ManejoDeErrores/Program.cs" Line="1" Column="1" />
+      <File FileName="ManejoDeErrores/Program.cs" Line="20" Column="62" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -20,7 +20,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.ManejoDeErrores FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ManejoDeErrores PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
